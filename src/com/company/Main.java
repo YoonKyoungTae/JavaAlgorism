@@ -6,6 +6,8 @@ import java.util.Scanner;
 
 public class Main {
 
+    //git Test
+
     public static void main(String args[]) throws Exception   {
       /* 아래 메소드 호출은 앞으로 표준입력(키보드) 대신 input.txt 파일로 부터 읽어오겠다는 의미의 코드입니다.
          만약 본인의 PC 에서 테스트 할 때는, 입력값을 input.txt에 저장한 후 이 코드를 첫 부분에 사용하면,
