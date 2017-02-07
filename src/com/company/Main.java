@@ -2,6 +2,7 @@ package com.company;
 
 import com.company.algorithm.AlgoStudy170203;
 import com.company.datastructure.Study170203;
+import com.company.datastructure.Study170207;
 
 import java.util.Scanner;
 
@@ -14,5 +15,9 @@ public class Main {
         AlgoStudy170203 study170203 = new AlgoStudy170203();
         study170203.algorithm();
         */
+
+        Study170207 study170207 = new Study170207();
+        study170207.start();
+
     }
 }
